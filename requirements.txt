@@ -1,0 +1,12 @@
+# Python Portfolio - Core Dependencies
+
+# Web Requests
+requests>=2.31.0
+
+# Data Analysis
+pandas>=2.1.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
